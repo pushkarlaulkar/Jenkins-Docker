@@ -14,4 +14,4 @@ This will create a docker volume "jenkins-data" which will store all the Jenkins
 
 Once the container is up and running enter below URL to start using Jenkins
 
-ip-address-of-the-host:8080
+`ip-address-of-the-host:8080`
