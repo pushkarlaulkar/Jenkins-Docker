@@ -1,5 +1,4 @@
 # Jenkins-Docker
-Jenkins Docker images of different OS
 
 This repository contains Jenkins image of different OS.
 
